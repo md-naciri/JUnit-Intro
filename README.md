@@ -6,7 +6,6 @@ This repository provides beginner-friendly explanations of unit testing and JUni
 Make sure you have the following dependency added to your pom.xml file:
 
 ```xml
-Copy code
 <dependency>
     <groupId>org.junit.jupiter</groupId>
     <artifactId>junit-jupiter</artifactId>
